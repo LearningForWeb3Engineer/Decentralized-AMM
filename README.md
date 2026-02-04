@@ -2,6 +2,8 @@
 
 A full-stack decentralized exchange built on Ethereum, implementing an automated market maker protocol with complete liquidity management, swap functionality, and real-time analytics.
 
+- **Frontend**: [https://decentralized-amm.vercel.app](https://decentralized-amm.vercel.app)
+
 ## 🌟 Live Demo
 
 - **Smart Contracts (Sepolia)**: 
