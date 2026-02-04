@@ -80,8 +80,8 @@ A full-stack decentralized exchange built on Ethereum, implementing an automated
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/amm-dex.git
-cd amm-dex
+git clone https://github.com/LearningForWeb3Engineer/Decentralized-AMM.git
+cd Decentralized-AMM
 ```
 
 2. **Install dependencies**
